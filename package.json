@@ -1,7 +1,7 @@
 {
   "name": "is-valid-path",
-  "description": "Returns true if a filepath is valid.",
-  "version": "0.1.0",
+  "description": "Returns true if a file path does not contain any invalid characters.",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/is-valid-path",
   "author": {
     "name": "Jon Schlinkert",

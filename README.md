@@ -1,6 +1,6 @@
 # is-valid-path [![NPM version](https://badge.fury.io/js/is-valid-path.svg)](http://badge.fury.io/js/is-valid-path)
 
-> Returns true if a filepath is valid.
+> Returns true if a file path does not contain any invalid characters.
 
 Install with [npm](https://www.npmjs.com/)
 
