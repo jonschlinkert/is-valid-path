@@ -29,9 +29,9 @@ isValid('foo.js');
  */
 
 isValid();
-//=> 'valse'
+//=> 'false'
 isValid(null);
-//=> 'valse'
+//=> 'false'
 isValid('!foo.js');
 //=> 'false'
 isValid('*.js');
