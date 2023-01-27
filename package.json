@@ -56,6 +56,6 @@
     "validate"
   ],
   "dependencies": {
-    "is-invalid-path": "^0.1.0"
+    "is-invalid-path": "^1.0.2"
   }
 }
